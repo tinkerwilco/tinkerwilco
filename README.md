@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @tinkerwilco
-- 👀 I’m interested in FOSS, IoT, security.
-- 🌱 I’m currently learning how to run my own business and contribute to the FOSS community.
-- 💞️ I’m looking to collaborate on crypto/NFT research.
-- 📫 How to reach me: via Matrix @wilco:seattlematrix.org
+- 👀 For work I’m interested in DevOps, Architecture, and Cybersecurity.
+- 🌱 I’m currently learning how to run my own business.
+- 💞️ For fun I do crypto/NFT research.
+- 📫 How to reach me: finux@pm.me
 
 <!---
 tinkerwilco/tinkerwilco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
