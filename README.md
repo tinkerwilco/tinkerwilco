@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @tinkerwilco
 - 👀 For work I’m interested in DevOps, Architecture, and Cybersecurity.
-- 🌱 I’m currently learning how to run my own business.
-- 💞️ For fun I do crypto/NFT research.
 - 📫 How to reach me: finux@pm.me
 
 <!---
