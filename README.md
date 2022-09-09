@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tinkerwilco
-- 👀 For work I’m interested in DevOps, Architecture, and Cybersecurity.
-- 📫 How to reach me: finux@pm.me
+- 👀 DevOps Engineer just trying to be helpful while learning
+- 📫 How to reach me: wilcoenterprises@mm.st
 
 <!---
 tinkerwilco/tinkerwilco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
